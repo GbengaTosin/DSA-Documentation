@@ -39,3 +39,9 @@ EDA involves the exploring of the Data to answer some questions about the Data s
 ### Data Analysis
 
 This is where we include some basic lines of codes or queries or even some of the DAX Expressions used during your analysis
+
+``` SQL
+SELECT A,B,C
+WHERE A> 45
+
+```
