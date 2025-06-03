@@ -47,4 +47,8 @@ WHERE A> 45
 ```
 ### Analysis
 
+![population-pie-chart](https://github.com/user-attachments/assets/7e23a796-b02e-472c-ab64-e3b18010d03e)
+
+
+![bar_chart](https://github.com/user-attachments/assets/3526cd2e-8ba8-4ad6-99ca-97ed88b2f228)
 
