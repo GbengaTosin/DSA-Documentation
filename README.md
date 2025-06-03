@@ -52,3 +52,7 @@ WHERE A> 45
 
 ![bar_chart](https://github.com/user-attachments/assets/3526cd2e-8ba8-4ad6-99ca-97ed88b2f228)
 
+
+*Italics*
+**Bold**
+
